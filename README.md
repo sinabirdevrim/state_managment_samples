@@ -1,3 +1,3 @@
 # Flutter State Managment Samples
 
-Provider, Block Pattern
+Provider (https://pub.dev/packages/provider), Block Pattern (https://pub.dev/packages/flutter_bloc)
